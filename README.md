@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://pabloasanch.github.io/Quiz-App/"><img height="50" src="https://github.com/PabloASanch/Quiz-App/blob/main/images.png"></img></a>
+  <a href="https://pabloasanch.github.io/Quiz-App/"><img height="50" src="https://github.com/PabloASanch/RBC-Ecommers/blob/main/icon3.png"></img></a>
   <br>
     RBC. Website
   <br>
